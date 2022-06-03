@@ -1,5 +1,7 @@
 # KMS-Justdoit
 Personal KarmaManagement system base on WEB(My Graduation Project)
+
+
 The inspiration for this project comes from thinking about one's own goals and time management. Mainly describes the design and realization of the basic functions that the personal karma management system should have to manage personal goals, including main functions such as: managing long-term goals, managing skills required to achieve long-term goals, managing the implementation of long-term goals into short-term plans, managing people associated with short-term plans, managing personal values, managing actions that further implement short-term plans, managing habit development plans, managing inspiration notes and other functions.
 
 
