@@ -1,0 +1,135 @@
+/* 
+ * Author: Kristen.Qi 
+ * Version: KMS 1.0
+ * Created Date: 2022-03-30    
+ */
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.flex-row {
+  display: flex !important;
+  flex-direction: row;
+}
+
+.float-right {
+  float: right;
+}
+
+.float-left {
+  float: left;
+}
+
+.height-allpage {
+  height: 100vh;
+}
+
+.margin-bottom-s {
+  margin-bottom: 4px;
+}
+
+.margin-bottom-m {
+  margin-bottom: 8px;
+}
+
+.margin-bottom-l {
+  margin-bottom: 16px;
+}
+
+.margin-left-s {
+  margin-left: 4px;
+}
+
+.margin-left-m {
+  margin-left: 8px;
+}
+
+.margin-left-l {
+  margin-left: 16px;
+}
+
+.margin-top-s {
+  margin-top: 4px;
+}
+.margin-top-m {
+  margin-top: 8px;
+}
+
+.margin-right-m {
+  margin-right: 8px;
+}
+.padding-s {
+  padding: 4px;
+}
+.detail-row {
+  margin-bottom: 8px;
+  display: flex !important;
+  flex-direction: row;
+}
+.detail-row-title {
+  float: left;
+  height: 34px;
+  width: 150px;
+  padding-top: 7px;
+  padding-left: 8px;
+  background: #f7f7f7;
+  font-weight: var(--font-semibold);
+}
+.detail-row-value {
+  float: left;
+  margin-left: 24px;
+  height: 34px;
+  padding-top: 7px;
+  color: #585c75;
+  width: 350px;
+}
+
+.overflow-ellipis {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.font-m {
+  font-size: 20px;
+}
+.font-s {
+  font-size: 1rem;
+}
+.font-l {
+  font-size: 30px;
+}
+.font-xl {
+  font-size: 40px;
+}
+.font-xxl {
+  font-size: 50px;
+}
+.font-xxxl {
+  font-size: 60px;
+}
+.font-light {
+  font-weight: 300;
+}
+.font-regular {
+  font-weight: 400;
+}
+.font-semibold {
+  font-weight: 600;
+}
+.font-bold {
+  font-weight: 700;
+}
+.font-bold-puls {
+  font-weight: 900;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.site-tag-plus {
+  background: #fff;
+  border-style: dashed;
+}

@@ -19,3 +19,10 @@ Use VS 2019 to start JustDoit and use VS Code to start kms or you can use cmd to
 DateBase:MongoDB 5.0.5;
 Backend:C# + ASP .NET Core;
 Fontend:html + css + js(es6) + React + Antd;
+
+# 中文搭建说明
+本系统数据库使用MongoDB 5.0.5;后端技术使用C#+ASP.NET Core;前端技术使用HTML+CSS+Js(ES6)+React+Antd
+
+后端部分(JustDoit)使用vs 2019打开,并下载相应nuGet包之后,使用IIS运行,运行成功后,会出现swagger页面.
+
+前端部分(kms)需要在控制台运行npm install将系统配置文件node_modules下载，下载成功之后，运行npm start命令即可.

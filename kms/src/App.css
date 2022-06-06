@@ -1,0 +1,14 @@
+/* 
+ * Author: Kristen.Qi 
+ * Version: KMS 1.0
+ * Created Date: 2022-03-30    
+ */
+ @import '~antd/dist/antd.css';
+
+#root {
+  font-family: 'Microsoft JhengHei';
+  min-height:100vh;
+  width: 100%;
+  margin: 0 auto;
+  background-color: #ececec;
+}

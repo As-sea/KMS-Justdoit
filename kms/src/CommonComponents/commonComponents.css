@@ -1,0 +1,35 @@
+/* 
+ * Author: Kristen.Qi 
+ * Version: KMS 1.0
+ * Created Date: 2022-03-30    
+ */
+.nav-bar {
+  height: 100%;
+  width: 100%;
+}
+
+.nav-bar-header {
+  padding: 2px 3px 1px 20px;
+}
+
+.header-tittle {
+  margin-left: 15px;
+  /* font-family: "Microsoft JhengHei"; */
+  font-size: 30px;
+  font-weight: 900;
+  color: #00004d;
+}
+.header-tittle-son {
+  font-size: 20px;
+  font-weight: 400;
+  color: #00004d;
+}
+.nav-bar-content {
+  height: 600px;
+}
+
+.nav-bar-sider {
+  padding-top: 10px;
+  padding-left: 0px;
+  margin-left: 0px;
+}
